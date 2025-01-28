@@ -1,4 +1,4 @@
-const apiKey = "e897fddad33443e3a4d172732252301";
+const apiKey = "put your own api key..";
 let currentCity = "Jhargram"; // Default city
 
 window.onload = function () {
